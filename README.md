@@ -1,4 +1,9 @@
-# Alicar Wrap Gallery
+# Alicar Wrap Gallery — Car Wrap Colour Collection (ฟิล์มเปลี่ยนสีรถ)
+
+[![Deploy to GitHub Pages](https://github.com/wasabicoat/CarWarping/actions/workflows/pages.yml/badge.svg)](https://github.com/wasabicoat/CarWarping/actions/workflows/pages.yml)
+[![Release](https://img.shields.io/github/v/release/wasabicoat/CarWarping)](https://github.com/wasabicoat/CarWarping/releases/latest)
+
+🌐 **Live Web Demo**: [https://wasabicoat.github.io/CarWarping/](https://wasabicoat.github.io/CarWarping/)
 
 PHP + HTML + JS gallery for the colour photos in `Alicar/<category>/<colour>/`.
 
