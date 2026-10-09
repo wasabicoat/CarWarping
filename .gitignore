@@ -1,0 +1,13 @@
+# Thumbnail and machine-specific cache
+cache/thumbs/
+cache/catalog-*.json
+
+# OS and Archive temp files
+.DS_Store
+Thumbs.db
+.ArchiveServiceTemp.*
+*.log
+
+# Skip files with invalid leading/trailing spaces on SMB
+*  .jpg
+* .jpg
